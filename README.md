@@ -1,5 +1,22 @@
 # Smart-Booking
 
+**Client Page**
+![Home Page](./ss/frontPage.png)
+After Login 
+![After Login](./ss/AfterLogin.png)
+![PropertyType](./ss/PropertyType.png)
+![FeaturePropertyoffer](./ss/FeaturePropertyoffer.png)
+![searchFilter](./ss/searchFilter.png)
+![ROOMPREVIEW](./ss/ROOMPREVIEW.png)
+![Home Page](./ss/SELECTroomASPERAVAILABILITY.png)
+![Home Page](./ss/frontPage.png)
+
+**Admin Page**
+![Admin Penal](./ss/adminPenal.png)
+![Admin Penal](./ss/roomTypeWithProvidingHotel.png)
+![Admin Penal](./ss/userInfo.png)
+![Admin Penal](./ss/bookingInfo.png)
+
 To set up and run a Node.js and React.js project, follow these steps:
 
 1. Ensure that you have Node.js installed on your machine. You can download and install the latest LTS version from the official Node.js website.
@@ -19,22 +36,3 @@ To set up and run a Node.js and React.js project, follow these steps:
 
 7. Open a web browser and visit `http://localhost:3000` to view the React.js application.
 
-
-**Client Page**
-
-![Home Page](./ss/frontPage.png)
-After Login 
-![After Login](./ss/AfterLogin.png)
-![PropertyType](./ss/PropertyType.png)
-![FeaturePropertyoffer](./ss/FeaturePropertyoffer.png)
-![searchFilter](./ss/searchFilter.png)
-![ROOMPREVIEW](./ss/ROOMPREVIEW.png)
-![Home Page](./ss/SELECTroomASPERAVAILABILITY.png)
-![Home Page](./ss/frontPage.png)
-
-Admin Page
-
-![Admin Penal](./ss/adminPenal.png)
-![Admin Penal](./ss/roomTypeWithProvidingHotel.png)
-![Admin Penal](./ss/userInfo.png)
-![Admin Penal](./ss/bookingInfo.png)
