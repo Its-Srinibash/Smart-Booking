@@ -18,5 +18,23 @@ To set up and run a Node.js and React.js project, follow these steps:
 6.  Navigate to the api directory  using `cd api`. Install project dependencies by running the command  `yarn install` .This will read the `package.json` file and install the required packages. and then run the command `yarn start`.
 
 7. Open a web browser and visit `http://localhost:3000` to view the React.js application.
-#Home page
+
+
+Client Page
+
 ![Home Page](./ss/frontPage.png)
+After Login 
+![After Login](./ss/AfterLogin.png)
+![PropertyType](./ss/PropertyType.png)
+![FeaturePropertyoffer](./ss/FeaturePropertyoffer.png)
+![searchFilter](./ss/searchFilter.png)
+![ROOMPREVIEW](./ss/ROOMPREVIEW.png)
+![Home Page](./ss/SELECTroomASPERAVAILABILITY.png)
+![Home Page](./ss/frontPage.png)
+
+Admin Page
+
+![Admin Penal](./ss/adminPenal.png)
+![Admin Penal](./ss/roomTypeWithProvidingHotel.png)
+![Admin Penal](./ss/userInfo.png)
+![Admin Penal](./ss/bookingInfo.png)
