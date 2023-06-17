@@ -20,7 +20,7 @@ To set up and run a Node.js and React.js project, follow these steps:
 7. Open a web browser and visit `http://localhost:3000` to view the React.js application.
 
 
-Client Page
+**Client Page**
 
 ![Home Page](./ss/frontPage.png)
 After Login 
